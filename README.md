@@ -1,9 +1,9 @@
 ## Hello There, Here is some features and live website link of this project -
 
-- Netlify Live Site Link -> https://tech-trove-6268e8.netlify.app/
+- Netlify Live Site Link -> https://silver-gingersnap-d72085.netlify.app/
 
-- Client Site Code repo link -> https://github.com/RahulSaha1998/Tech-trove-client
-- Server Site Code repo link -> https://github.com/RahulSaha1998/Tech-trove-server
+- Client Site Code repo link -> https://github.com/RahulSaha1998/Tech-Trove-Frontend
+- Server Site Code repo link -> https://github.com/RahulSaha1998/Tech-Trove-Backend
 
 
 ## Basic Features Details
